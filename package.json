@@ -1,0 +1,1 @@
+{"name":"cassandra-ecommerce-web","version":"1.0.0","description":"Express website connected to Apache Cassandra","main":"server.js","scripts":{"start":"node server.js","dev":"node --watch server.js"},"dependencies":{"cassandra-driver":"^4.10.0","dotenv":"^16.6.1","express":"^4.22.3"}}
