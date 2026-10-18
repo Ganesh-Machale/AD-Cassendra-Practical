@@ -1,8 +1,5 @@
 # Cassandra E-Commerce Web App
 
-A simple HTML/CSS/JavaScript frontend connected to Apache Cassandra through Node.js and Express.
-
-## Requirements
 - Node.js and npm on Windows
 - Cassandra running in Ubuntu/WSL on port 9042
 - Existing `ecommerce` keyspace with `customers`, `products`, and `orders` tables
